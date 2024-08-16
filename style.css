@@ -1,0 +1,37 @@
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+}
+
+h1{
+    text-align: center;
+    color:blueviolet
+
+}
+
+table{
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+
+}
+.code{
+    font-family:  monospace;
+    background-color: beige;
+}
+    
+.head{
+    display: table-header-group;
+    vertical-align: middle;
+    unicode-bidi: isolate;
+    border-color: inherit;
+    background-color: plum;
+    
+}
+  
+ td{
+    border-top: 2px solid plum;
+    
+ } 
+
